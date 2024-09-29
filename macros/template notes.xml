@@ -1,0 +1,15 @@
+<MA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.malighting.de/grandma2/xml/MA" xsi:schemaLocation="http://schemas.malighting.de/grandma2/xml/MA http://schemas.malighting.de/grandma2/xml/3.8.0/MA.xsd" major_vers="3" minor_vers="8" stream_vers="0">
+    <Info datetime="2024-09-29T20:24:02" showfile="template_v3.8.0"/>
+    <!-- Macro index stands for "the slot number of a macro" -->
+    <Macro index="0" name="Label">
+        <!-- Macroline index stands for the step of commands. It starts at 0 which is the first command in a macro -->
+        <!-- There are two parameter in Macroline: "delay" and "disabled" -->
+        <!-- If 'delay = "-1"', it means Wait in MA macro is set to 'Go'. If there is no delay parameter being set, the default value is 'Follow'. -->
+        <!-- If 'disabled = "true"', it means Disabled in MA macro is enabled. The default value is 'false'.-->
+        <Macroline index="0">
+            <text>Label @</text>
+            <!-- You can add <info></info> as info for a command if needed -->
+            <info>Make keyword "label" as a placehold in CLI.</info>
+        </Macroline>
+    </Macro>
+</MA>
