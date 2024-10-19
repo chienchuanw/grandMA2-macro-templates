@@ -1,9 +1,6 @@
-# grandMA2 Macro Template
+# grandMA2 Macro Templates
 
-## Index
-
-- [grandMA2 Macro Template](#grandma2-macro-template)
-  - [Index](#index)
+- [grandMA2 Macro Templates](#grandma2-macro-templates)
   - [Explanation for each macro](#explanation-for-each-macro)
     - [showfile-downgrade](#showfile-downgrade)
 
