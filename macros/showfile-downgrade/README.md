@@ -1,4 +1,4 @@
-# grandMA2 Version Downgrade Macro
+# grandMA2 Showfile Downgrade Macro
 
 ## Things user should know before using this macro
 
