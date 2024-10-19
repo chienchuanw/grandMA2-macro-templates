@@ -8,4 +8,4 @@
 
 ### showfile-downgrade
 
-This macro allow user to downgrade a grandMA2 showfile from a higher version like v3.9.60 to a lower version showfile like v3.3.4. To see more detail, please visit [showfile-downgrade](./macros/showfile-downgrade/).
+This macro allows user to downgrade a grandMA2 showfile from a higher version like v3.9.60 to a lower version showfile like v3.3.4. To see more detail, please visit [showfile-downgrade](./macros/showfile-downgrade/).

@@ -3,6 +3,7 @@
 ## Things user should know before using this macro
 
 - Notice this macro is originally generated in version 3.3.4, which cannot be import in a lower version grandMA2 like v3.1.2.
+- This is a macro collection which includes three macros: `Export High Show`, `Import Low Show`, and `Import User and User Profile`.
 - When using this macro, make sure the USB drive is inserted and only **ONE** USE drive should be inserted.
 - It is recommended to use a clean USB stick which will make whole process easier.
 
