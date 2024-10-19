@@ -11,7 +11,7 @@
 
 1. Import macro `Export High Show` in the version which your showfile are currently using. e.g. If your showfile version is v3.9.60, import marco `Export High Show` in this or higher version showfile directly.
 2. It will take some time to execute macro `Export High Show`. After the macro is done executing, there will be several XML files generated which can be found in folders like "**importexport**", "**fixture_layers**", and "**library**". These files contain all the content of your exported showfile.
-   > Tips: You use "Last Modified Date" to locate the XML files with nearest timestamp.
+   > Tips: You can use "Last Modified Date" to locate the XML files with nearest timestamp.
 3. Open these XML files with a text editor like Notepad in Windows. At the beginning of each file, you will see version information like this:
 
    ```xml
